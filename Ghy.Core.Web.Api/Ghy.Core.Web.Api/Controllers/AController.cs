@@ -32,5 +32,12 @@ namespace Ghy.Core.Web.Api.Controllers
             result.Success("成功");
             return result;
         }
+        [HttpGet]
+        public JsonResult<string> testB()
+        {
+            JsonResult<string> result = new JsonResult<string>();
+            result.Success("成功");
+            return result;
+        }
     }
 }
