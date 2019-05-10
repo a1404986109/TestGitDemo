@@ -1,0 +1,14 @@
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.EntityFramework\bin\Debug\netcoreapp2.1\Ghy.Core.EntityFramework.deps.json
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.EntityFramework\bin\Debug\netcoreapp2.1\Ghy.Core.EntityFramework.dll
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.EntityFramework\obj\Debug\netcoreapp2.1\Ghy.Core.EntityFramework.csproj.CoreCompileInputs.cache
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.EntityFramework\obj\Debug\netcoreapp2.1\Ghy.Core.EntityFramework.AssemblyInfoInputs.cache
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.EntityFramework\obj\Debug\netcoreapp2.1\Ghy.Core.EntityFramework.AssemblyInfo.cs
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.EntityFramework\bin\Debug\netcoreapp2.1\Ghy.Core.EntityFramework.runtimeconfig.json
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.EntityFramework\bin\Debug\netcoreapp2.1\Ghy.Core.EntityFramework.runtimeconfig.dev.json
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.EntityFramework\obj\Debug\netcoreapp2.1\Ghy.Core.EntityFramework.csprojAssemblyReference.cache
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.EntityFramework\bin\Debug\netcoreapp2.1\Ghy.Core.EntityFramework.pdb
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.EntityFramework\obj\Debug\netcoreapp2.1\Ghy.Core.EntityFramework.dll
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.EntityFramework\obj\Debug\netcoreapp2.1\Ghy.Core.EntityFramework.pdb
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.EntityFramework\bin\Debug\netcoreapp2.1\Common.dll
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.EntityFramework\bin\Debug\netcoreapp2.1\Common.pdb
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.EntityFramework\obj\Debug\netcoreapp2.1\Ghy.Core.EntityFramework.csproj.CopyComplete

@@ -1,0 +1,14 @@
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\EmptyApi\bin\Debug\netcoreapp2.1\EmptyApi.deps.json
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\EmptyApi\bin\Debug\netcoreapp2.1\EmptyApi.runtimeconfig.json
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\EmptyApi\bin\Debug\netcoreapp2.1\EmptyApi.runtimeconfig.dev.json
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\EmptyApi\bin\Debug\netcoreapp2.1\EmptyApi.dll
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\EmptyApi\bin\Debug\netcoreapp2.1\EmptyApi.pdb
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\EmptyApi\obj\Debug\netcoreapp2.1\EmptyApi.csprojAssemblyReference.cache
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\EmptyApi\obj\Debug\netcoreapp2.1\EmptyApi.csproj.CoreCompileInputs.cache
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\EmptyApi\obj\Debug\netcoreapp2.1\EmptyApi.RazorAssemblyInfo.cache
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\EmptyApi\obj\Debug\netcoreapp2.1\EmptyApi.RazorAssemblyInfo.cs
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\EmptyApi\obj\Debug\netcoreapp2.1\EmptyApi.AssemblyInfoInputs.cache
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\EmptyApi\obj\Debug\netcoreapp2.1\EmptyApi.AssemblyInfo.cs
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\EmptyApi\obj\Debug\netcoreapp2.1\EmptyApi.RazorTargetAssemblyInfo.cache
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\EmptyApi\obj\Debug\netcoreapp2.1\EmptyApi.dll
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\EmptyApi\obj\Debug\netcoreapp2.1\EmptyApi.pdb

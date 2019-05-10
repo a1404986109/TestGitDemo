@@ -1,0 +1,14 @@
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Dal\bin\Debug\netcoreapp2.1\Ghy.Core.Dal.deps.json
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Dal\bin\Debug\netcoreapp2.1\Ghy.Core.Dal.dll
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Dal\bin\Debug\netcoreapp2.1\Ghy.Core.Dal.pdb
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Dal\bin\Debug\netcoreapp2.1\Common.dll
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Dal\bin\Debug\netcoreapp2.1\Ghy.Core.EntityFramework.dll
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Dal\bin\Debug\netcoreapp2.1\Ghy.Core.EntityFramework.pdb
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Dal\bin\Debug\netcoreapp2.1\Common.pdb
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Dal\obj\Debug\netcoreapp2.1\Ghy.Core.Dal.csprojAssemblyReference.cache
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Dal\obj\Debug\netcoreapp2.1\Ghy.Core.Dal.csproj.CoreCompileInputs.cache
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Dal\obj\Debug\netcoreapp2.1\Ghy.Core.Dal.AssemblyInfoInputs.cache
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Dal\obj\Debug\netcoreapp2.1\Ghy.Core.Dal.AssemblyInfo.cs
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Dal\obj\Debug\netcoreapp2.1\Ghy.Core.Dal.csproj.CopyComplete
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Dal\obj\Debug\netcoreapp2.1\Ghy.Core.Dal.dll
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Dal\obj\Debug\netcoreapp2.1\Ghy.Core.Dal.pdb

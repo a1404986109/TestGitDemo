@@ -1,0 +1,14 @@
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\IdentityServer4Demo\bin\Debug\netcoreapp2.1\IdentityServer4Demo.deps.json
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\IdentityServer4Demo\bin\Debug\netcoreapp2.1\IdentityServer4Demo.runtimeconfig.json
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\IdentityServer4Demo\bin\Debug\netcoreapp2.1\IdentityServer4Demo.runtimeconfig.dev.json
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\IdentityServer4Demo\bin\Debug\netcoreapp2.1\IdentityServer4Demo.dll
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\IdentityServer4Demo\bin\Debug\netcoreapp2.1\IdentityServer4Demo.pdb
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\IdentityServer4Demo\obj\Debug\netcoreapp2.1\IdentityServer4Demo.csprojAssemblyReference.cache
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\IdentityServer4Demo\obj\Debug\netcoreapp2.1\IdentityServer4Demo.csproj.CoreCompileInputs.cache
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\IdentityServer4Demo\obj\Debug\netcoreapp2.1\IdentityServer4Demo.RazorAssemblyInfo.cache
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\IdentityServer4Demo\obj\Debug\netcoreapp2.1\IdentityServer4Demo.RazorAssemblyInfo.cs
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\IdentityServer4Demo\obj\Debug\netcoreapp2.1\IdentityServer4Demo.AssemblyInfoInputs.cache
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\IdentityServer4Demo\obj\Debug\netcoreapp2.1\IdentityServer4Demo.AssemblyInfo.cs
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\IdentityServer4Demo\obj\Debug\netcoreapp2.1\IdentityServer4Demo.RazorTargetAssemblyInfo.cache
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\IdentityServer4Demo\obj\Debug\netcoreapp2.1\IdentityServer4Demo.dll
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\IdentityServer4Demo\obj\Debug\netcoreapp2.1\IdentityServer4Demo.pdb

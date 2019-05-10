@@ -1,0 +1,12 @@
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Common\bin\Debug\netcoreapp2.1\Common.dll
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Common\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Json.dll
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Common\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Json.xml
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Common\obj\Debug\netcoreapp2.1\Common.csproj.CopyComplete
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Common\bin\Debug\netcoreapp2.1\Common.pdb
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Common\obj\Debug\netcoreapp2.1\Common.dll
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Common\obj\Debug\netcoreapp2.1\Common.pdb
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache

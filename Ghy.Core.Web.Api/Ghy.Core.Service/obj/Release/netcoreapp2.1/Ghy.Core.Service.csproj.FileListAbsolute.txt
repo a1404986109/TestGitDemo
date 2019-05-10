@@ -1,0 +1,16 @@
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Service\bin\Release\netcoreapp2.1\Ghy.Core.Service.deps.json
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Service\bin\Release\netcoreapp2.1\Ghy.Core.Service.dll
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Service\bin\Release\netcoreapp2.1\Ghy.Core.Service.pdb
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Service\bin\Release\netcoreapp2.1\Common.dll
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Service\bin\Release\netcoreapp2.1\Ghy.Core.Dal.dll
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Service\bin\Release\netcoreapp2.1\Ghy.Core.EntityFramework.dll
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Service\bin\Release\netcoreapp2.1\Common.pdb
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Service\bin\Release\netcoreapp2.1\Ghy.Core.Dal.pdb
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Service\bin\Release\netcoreapp2.1\Ghy.Core.EntityFramework.pdb
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Service\obj\Release\netcoreapp2.1\Ghy.Core.Service.csprojAssemblyReference.cache
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Service\obj\Release\netcoreapp2.1\Ghy.Core.Service.csproj.CoreCompileInputs.cache
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Service\obj\Release\netcoreapp2.1\Ghy.Core.Service.AssemblyInfoInputs.cache
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Service\obj\Release\netcoreapp2.1\Ghy.Core.Service.AssemblyInfo.cs
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Service\obj\Release\netcoreapp2.1\Ghy.Core.Service.csproj.CopyComplete
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Service\obj\Release\netcoreapp2.1\Ghy.Core.Service.dll
+D:\ASPNETCOREDEMO\Ghy.Core.Web.Api\Ghy.Core.Service\obj\Release\netcoreapp2.1\Ghy.Core.Service.pdb
