@@ -25,5 +25,12 @@ namespace Ghy.Core.Web.Api.Controllers
             result.Success(_aServer.DeleteA(id));
             return result;
         }
+        [HttpGet]
+        public JsonResult<string> testA()
+        {
+            JsonResult<string> result = new JsonResult<string>();
+            result.Success("成功");
+            return result;
+        }
     }
 }
