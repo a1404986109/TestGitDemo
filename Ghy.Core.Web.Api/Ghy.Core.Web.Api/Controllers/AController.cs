@@ -37,7 +37,7 @@ namespace Ghy.Core.Web.Api.Controllers
         {
             JsonResult<string> result = new JsonResult<string>();
             result.Success("成功");
-            return result;
+            return result; 
         }
     }
 }
